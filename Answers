@@ -1,0 +1,65 @@
+PART 1
+------
+1. Software engineering
+Software Engineering is the systematic application of engineering principles to the development and maintenance of high quality software systems.
+Software Engineering enables the creation of software applications and systems that power various aspects of modern life
+
+2.Milestones
+- development of programming languages for example the C language
+- Establishment of software engineering as a discipline in the 1960s
+- rise of the agile methodologies in the 2000s
+
+3.phases of SDLC
+(i)- Requirements -> gathering and documenting user needs and system requirements
+(ii) - Design -> creating high level and detailed designs of the softwrae architecture and interface
+(iii) - Implementation -> writing code and building the software according to the design specifications
+(iv) - Testing -> conducting tests to ensure software meets the required standards
+(v) - Deployment -> releasing the software to customers and users
+(vi) - Maintenance -> providing ongoing support,updates and enhancements to the deployed software
+
+4.waterfall and agile methodologies
+Waterfall -> sequential approach with distinct phases flowing from top to bottom like a waterfall. It can be used where the project has less complex objectives
+Agile -> iterative and incremental approach focused on flexibility, collaboration and responding to change. It is use in large scale projects where requirements are likely to change.
+
+5. roles and responsibilities
+(i) - Software Developer -> responsible for writing code and implementing software solutions
+(ii) - Quality Assurance Engineer -> ensures software quality by designing and executing test plans
+(iii) - Project Manager -> Oversees the planning, execution and delivery of software projects
+
+6.IDEs and VCs
+- IDE -> this is a software suite that provide comprehensive tools for writing, debugging and testing code. e.g VS code
+- Version Control -> software tools for tracking changes to source code and coordinating work among team members e.g git.
+
+7. challenges and solutions
+(i) - Changing Requirements e.g objectives -> this can be handled by using agile methodology since it is flexible and allows the team to make changes
+(ii) - Tight deadlines that can lead to rush in software creation -> the team ca prioritize tasks to ensure proper time management
+(iii) - technical debt accrued from shortcuts can incr4ease maintenance costs -> this can be handled through regular assessment of goals to ensure everything is on track.
+
+8.types of testing
+(i) - Unit testing -> unit testing involves testing individual components of software application in isolation. It helps catch bugs early in the development process
+it also simplifies debugging since issues can tracked back to specific units.
+(ii) - Intergration testing -> it involves testing interactions between different units of the software.
+It identifies issues in the interaction between components
+(iii) - System testing -> it involves testing the complete and intergrated software application as a whole.
+It ensures that software behaves as expected when all components are intergrated.
+(iv) - Acceptance testing -> it is the final level of testing conducted before the software is released to end users.
+It provides confidence that the software meets the agreed upon requirements.
+It also helps identify last minute issues before the software is delivered
+
+PART 2
+------
+
+1.prompt engineering
+prompt engineering is the crafting of questions or statements to get the best possible responses from AI models
+its importance is that it ensures AI models give the best possible responses
+
+2. vague vs specific prompt
+vague
+-----
+write a report
+
+clear
+-----
+Write a 5-page report analyzing the impact of remote work on employee productivity in the tech industry. Include an introduction, data-backed analysis, and a conclusion with recommendations.
+
+A clear and concise prompt5 ensures maximum utilisation of AI models to provide the best possible response
